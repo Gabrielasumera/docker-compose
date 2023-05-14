@@ -13,3 +13,14 @@ Wordpress:
 
 Zmienne środowiskowe:
 
+```
+environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wordpress
+```
+
+```
+
+```
